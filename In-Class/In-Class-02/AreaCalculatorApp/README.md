@@ -96,3 +96,14 @@ n should clear all the EditTexts, and change the first
 2.  When the app starts, the first TextView should display the message, “Select a
     
     shape”, see Figure 1(a).
+    
+    
+---
+**Screenshots of Application**
+---
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-1.png)
+
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-2.png)
+
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-3.png)
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-4.png)
