@@ -102,8 +102,8 @@ n should clear all the EditTexts, and change the first
 **Screenshots of Application**
 ---
 ![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-1.png)
-
 ![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-2.png)
-
 ![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-3.png)
 ![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-4.png)
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-5.png)
+![enter image description here](https://github.com/venkyhegde/ITIS-5180-mobile-application-development/blob/master/In-Class/In-Class-02/AreaCalculatorApp/Screenshots/Screen-7.png)
