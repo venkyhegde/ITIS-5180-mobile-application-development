@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/amnButtonOk"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/okay_button" />
+
+    <Button
+        android:id="@+id/amnButtonCancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel_button"
+        android:onClick="cancelEvent"/>
+
+    <Button
+        android:id="@+id/amnButtonOther"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/other_button" />
+
+    <SeekBar
+        android:id="@+id/anmSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/seekBarText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/okay_button"
+        tools:text="@string/okay_button" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RadioButton
+            android:id="@+id/amnRadioOk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/okay_button" />
+
+        <RadioButton
+            android:id="@+id/amnRadioCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel_button" />
+
+        <RadioButton
+            android:id="@+id/amnRadioOther"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/other_button" />
+
+        <Button
+            android:id="@+id/amnButtonChecked"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Get Checked Value" />
+
+    </RadioGroup>
+
+</LinearLayout>

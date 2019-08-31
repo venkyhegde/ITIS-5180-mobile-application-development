@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button_label">Click Me</string>
+    <string name="my_name">Venky</string>
+    <string name="test_string">This is a test String</string>
+    <string name="okay_button">OK</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="other_button">OTHER</string>
+    <string-array name="test_str_array">
+        <item>NC</item>
+        <item>SC</item>
+        <item>MA</item>
+        <item>CA</item>
+        <item>NJ</item>
+    </string-array>
+</resources>
