@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="first_name" />
+    <string name="fn_hint">First Name</string>
+    <string name="last_name" />
+    <string name="ln_hint">Last Name</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="radio_fm">Female</string>
+    <string name="radio_m">Male</string>
+    <string name="button_save">Save</string>
+    <string name="tv_full_name" />
+    <string name="tv_gender" />
+    <string name="button_edit">Edit</string>
+</resources>

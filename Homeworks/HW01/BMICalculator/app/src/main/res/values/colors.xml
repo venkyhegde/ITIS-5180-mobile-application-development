@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Homework 01-->
+<!--    colors.xml-->
+<!--    Chaitanya Deshpande, Akash Atul Khiste, Venky Shantharam Hegde-->
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButtonNormal">#ffd6d7d7</color>
+</resources>

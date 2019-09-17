@@ -1,0 +1,15 @@
+<!--Homework 01-->
+<!--    strings.xml-->
+<!--    Chaitanya Deshpande, Akash Atul Khiste, Venky Shantharam Hegde-->
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_text">Body Mass Index (BMI)</string>
+    <string name="weight_text">Weight</string>
+    <string name="lb">lb</string>
+    <string name="height_text">Height</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="button_calculate">Calculate BMI</string>
+    <string name="bmi_value">Your BMI:</string>
+    <string name="bmi_status" >You are</string>
+</resources>

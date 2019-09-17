@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandlerDemo</string>
+    <string name="app_name_1" >Handler Demo</string>
+    <string name="demo_1">Demo 1</string>
+</resources>

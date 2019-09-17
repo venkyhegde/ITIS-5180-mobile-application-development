@@ -33,6 +33,7 @@ public class MainPart2 {
 
             countMap.put (user.getState (), countMap.getOrDefault (user.getState (), 0) +1);
         }
+
         countMap.entrySet().stream()
                 .sorted((k1, k2) -> k1.getValue().compareTo(k2.getValue()))
                 .forEach(k -> System.out.println(k.getKey() + ": " + k.getValue()));

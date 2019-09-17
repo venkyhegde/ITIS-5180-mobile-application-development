@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Assignment Group - 18-->
+<!--    In Class 03-->
+<!--    Akash Khiste, Venky Hegde, Chaitanya Deshpande-->
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>

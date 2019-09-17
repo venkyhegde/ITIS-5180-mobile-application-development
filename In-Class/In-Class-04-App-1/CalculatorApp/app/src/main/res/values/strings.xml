@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="add_button_label">Add</string>
+    <string name="subtract_button_label">Subtract</string>
+    <string name="result_tv">Result</string>
+    <string name="result_ans" />
+    <string name="operation_label" />
+    <string name="number1_label">Number 1</string>
+    <string name="number2_label">Number 2</string>
+    <string name="button_calculate_label">Calculate</string>
+</resources>

@@ -43,10 +43,12 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="64dp"
         android:contentDescription="@string/triangle"
+        android:onClick="imageClick"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewSqr"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextLen2"
-        app:srcCompat="@drawable/triangle"
-        android:onClick="imageClick"/>
+        app:srcCompat="@drawable/triangle" />
 
     <ImageView
         android:id="@+id/imageViewSqr"
@@ -55,10 +57,12 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="64dp"
         android:contentDescription="@string/square"
+        android:onClick="imageClick"
+        app:layout_constraintEnd_toStartOf="@+id/imageViewCir"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageViewTri"
         app:layout_constraintTop_toBottomOf="@+id/editTextLen2"
-        app:srcCompat="@drawable/square"
-        android:onClick="imageClick"/>
+        app:srcCompat="@drawable/square" />
 
     <ImageView
         android:id="@+id/imageViewCir"
@@ -68,11 +72,12 @@
         android:layout_marginTop="64dp"
         android:layout_marginEnd="16dp"
         android:contentDescription="@string/circle"
+        android:onClick="imageClick"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/imageViewSqr"
         app:layout_constraintTop_toBottomOf="@+id/editTextLen2"
-        app:srcCompat="@drawable/circle"
-        android:onClick="imageClick"/>
+        app:srcCompat="@drawable/circle" />
 
     <TextView
         android:id="@+id/textViewSelectedShape"
@@ -90,11 +95,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
+        android:onClick="calculateClick"
         android:text="@string/calculate"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textViewSelectedShape"
-        android:onClick="calculateClick"/>
+        app:layout_constraintTop_toBottomOf="@+id/textViewSelectedShape" />
 
     <TextView
         android:id="@+id/textViewArea"
@@ -111,10 +116,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
+        android:onClick="clear"
         android:text="@string/clear"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textViewArea"
-        android:onClick="clear"/>
+        app:layout_constraintTop_toBottomOf="@+id/textViewArea" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

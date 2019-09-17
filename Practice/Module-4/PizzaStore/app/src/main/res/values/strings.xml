@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="delivery">Devivery</string>
+    <string name="add_topping">Add Topping</string>
+    <string name="clear_pizza">Clear Pizza</string>
+    <string name="checkout">Checkout</string>
+    <string name="your_order">Your Order</string>
+    <string name="base_price_label">Base Price:</string>
+    <string name="base_price">$</string>
+    <string name="toppings_label">Toppings:</string>
+    <string name="toppings_price">$</string>
+    <string name="toppings_list">Tomato, Bacon, Olives</string>
+    <string name="delivery_cost_label">Delivery Cost:</string>
+    <string name="delivery_cost">$</string>
+    <string name="total"><u>Total:</u></string>
+    <string-array name="toppings_array">
+        <item>Bacon</item>
+        <item>Cheese</item>
+        <item>Garlic</item>
+        <item>Green Pepper</item>
+        <item>Mushroom</item>
+        <item>Olive</item>
+        <item>Onion</item>
+        <item>Red Pepper</item>
+    </string-array>
+    <string-array name="toppings_icon">
+        <item>bacon</item>
+        <item>cheese</item>
+        <item>garlic</item>
+        <item>green_pepper</item>
+        <item>mashroom</item>
+        <item>olive</item>
+        <item>onion</item>
+        <item>red_pepper</item>
+    </string-array>
+</resources>
